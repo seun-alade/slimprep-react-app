@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src= "https://theslimprep.com/wp-content/uploads/2020/05/Logo-2.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Welcome to Slimprep DevOps
         </p>
         <a
           className="App-link"
